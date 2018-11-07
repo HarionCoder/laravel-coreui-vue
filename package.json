@@ -40,7 +40,7 @@
     "prettier": "1.14.3",
     "stylelint": "^9.7.1",
     "stylelint-config-sass-guidelines": "^5.2.0",
-    "stylelint-scss": "^3.3.2"
+    "stylelint-scss": "^3.4.0"
   },
   "dependencies": {
     "animate.css": "^3.7.0",
